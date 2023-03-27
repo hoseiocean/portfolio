@@ -355,15 +355,15 @@ i {
   font-size: 50px;
   color: #7a7a7a;
 }
-.skills--list--logo i.devicon-html5-plain:hover {
+.skills--list--logo i.devicon-html5-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg");
 }
-.skills--list--logo i.devicon-css3-plain:hover {
+.skills--list--logo i.devicon-css3-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg");
 }
-.skills--list--logo i.devicon-bootstrap-plain:hover {
+.skills--list--logo i.devicon-bootstrap-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg");
 }
@@ -405,7 +405,7 @@ i {
 }
 .skills--list--logo i.devicon-laravel-plain:hover {
   color: transparent;
-  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
 }
 .skills--list--logo i.devicon-git-plain:hover {
   color: transparent;
@@ -418,6 +418,10 @@ i {
 .skills--list--logo i.devicon-npm-original-wordmark:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg");
+}
+.skills--list--logo i.devicon-python-original:hover {
+  color: transparent;
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
 }
 .skills--list--name {
   font-family: "Quicksand", "Roboto", system-ui, sans-serif;

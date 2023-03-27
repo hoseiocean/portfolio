@@ -328,15 +328,15 @@ i {
   font-size: 50px;
   color: #7a7a7a;
 }
-.skills--list--logo i.devicon-html5-plain:hover {
+.skills--list--logo i.devicon-html5-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg");
 }
-.skills--list--logo i.devicon-css3-plain:hover {
+.skills--list--logo i.devicon-css3-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg");
 }
-.skills--list--logo i.devicon-bootstrap-plain:hover {
+.skills--list--logo i.devicon-bootstrap-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg");
 }
@@ -344,53 +344,53 @@ i {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg");
 }
-.skills--list--logo i.devicon-javascript-plain:hover {
+.skills--list--logo i.devicon-javascript-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg");
 }
-.skills--list--logo i.devicon-vuejs-plain:hover {
+.skills--list--logo i.devicon-vuejs-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg");
 }
-.skills--list--logo i.devicon-vscode-plain:hover {
+.skills--list--logo i.devicon-vscode-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg");
 }
-.skills--list--logo i.devicon-gimp-plain:hover {
+.skills--list--logo i.devicon-gimp-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg");
 }
-.skills--list--logo i.devicon-figma-plain:hover {
+.skills--list--logo i.devicon-figma-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg");
 }
-.skills--list--logo i.devicon-bash-plain:hover {
+.skills--list--logo i.devicon-bash-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg");
 }
-.skills--list--logo i.devicon-mysql-plain-wordmark:hover {
+.skills--list--logo i.devicon-mysql-original-wordmark:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg");
 }
-.skills--list--logo i.devicon-php-plain:hover {
+.skills--list--logo i.devicon-php-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg");
 }
-.skills--list--logo i.devicon-laravel-plain:hover {
+.skills--list--logo i.devicon-laravel-original:hover {
   color: transparent;
-  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
 }
-.skills--list--logo i.devicon-git-plain:hover {
+.skills--list--logo i.devicon-git-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg");
 }
-.skills--list--logo i.devicon-github-plain:hover {
+.skills--list--logo i.devicon-github-original:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg");
 }
-.skills--list--logo i.devicon-npm-original-wordmark:hover {
+.skills--list--logo i.devicon-python-original:hover {
   color: transparent;
-  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
 }
 .skills--list--name {
   font-family: "Quicksand", "Roboto", system-ui, sans-serif;

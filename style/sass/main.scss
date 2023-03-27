@@ -306,19 +306,19 @@ i {
             & i {
                 font-size: 50px;
                 color: $skillsLogoGray;
-                &.devicon-html5-plain {
+                &.devicon-html5-original {
                     &:hover {
                         color: transparent;
                         background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg');
                     }
                 }
-                &.devicon-css3-plain {
+                &.devicon-css3-original {
                     &:hover {
                         color: transparent;
                         background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg');
                     }
                 }
-                &.devicon-bootstrap-plain {
+                &.devicon-bootstrap-original {
                     &:hover {
                         color: transparent;
                         background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg');
@@ -381,7 +381,7 @@ i {
                 &.devicon-laravel-plain {
                     &:hover {
                         color: transparent;
-                        background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg');
+                        background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg');
                     }
                 }
                 &.devicon-git-plain {
@@ -396,10 +396,10 @@ i {
                         background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg');
                     }
                 }
-                &.devicon-npm-original-wordmark {
+                &.devicon-python-original {
                     &:hover {
                         color: transparent;
-                        background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg');
+                        background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg');
                     }
                 }
             }
