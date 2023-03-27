@@ -328,71 +328,71 @@ i {
   font-size: 50px;
   color: #7a7a7a;
 }
-.skills--list--logo i.devicon-html5-original:hover {
+.skills--list--logo i.devicon-html5-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg");
 }
-.skills--list--logo i.devicon-css3-original:hover {
+.skills--list--logo i.devicon-css3-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg");
 }
-.skills--list--logo i.devicon-bootstrap-original:hover {
+.skills--list--logo i.devicon-bootstrap-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg");
 }
-.skills--list--logo i.devicon-sass-original:hover {
+.skills--list--logo i.devicon-sass-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg");
 }
-.skills--list--logo i.devicon-javascript-original:hover {
+.skills--list--logo i.devicon-javascript-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg");
 }
-.skills--list--logo i.devicon-vuejs-original:hover {
+.skills--list--logo i.devicon-vuejs-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg");
 }
-.skills--list--logo i.devicon-vscode-original:hover {
+.skills--list--logo i.devicon-vscode-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg");
 }
-.skills--list--logo i.devicon-gimp-original:hover {
+.skills--list--logo i.devicon-gimp-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg");
 }
-.skills--list--logo i.devicon-figma-original:hover {
+.skills--list--logo i.devicon-figma-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg");
 }
-.skills--list--logo i.devicon-bash-original:hover {
+.skills--list--logo i.devicon-bash-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg");
 }
-.skills--list--logo i.devicon-mysql-original-wordmark:hover {
+.skills--list--logo i.devicon-mysql-plain:hover {
   color: transparent;
-  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg");
 }
-.skills--list--logo i.devicon-php-original:hover {
+.skills--list--logo i.devicon-php-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg");
 }
-.skills--list--logo i.devicon-laravel-original:hover {
+.skills--list--logo i.devicon-laravel-plain:hover {
   color: transparent;
-  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg");
 }
-.skills--list--logo i.devicon-git-original:hover {
+.skills--list--logo i.devicon-git-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg");
 }
-.skills--list--logo i.devicon-github-original:hover {
+.skills--list--logo i.devicon-github-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg");
 }
-.skills--list--logo i.devicon-python-original:hover {
+.skills--list--logo i.devicon-python-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
 }
-.skills--list--logo i.devicon-swift-original:hover {
+.skills--list--logo i.devicon-swift-plain:hover {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg");
 }
