@@ -392,6 +392,10 @@ i {
   color: transparent;
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg");
 }
+.skills--list--logo i.devicon-swift-original:hover {
+  color: transparent;
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg");
+}
 .skills--list--name {
   font-family: "Quicksand", "Roboto", system-ui, sans-serif;
   font-size: 16px;

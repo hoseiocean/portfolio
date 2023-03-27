@@ -402,6 +402,12 @@ i {
                         background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg');
                     }
                 }
+                &.devicon-swift-original {
+                    &:hover {
+                        color: transparent;
+                        background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg");
+                    }
+                }
             }
         }
         &--name {
